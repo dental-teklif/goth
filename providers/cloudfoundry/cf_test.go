@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/cloudfoundry"
+	"github.com/burkayanduv/goth"
+	"github.com/burkayanduv/goth/providers/cloudfoundry"
 	"github.com/stretchr/testify/assert"
 )
 

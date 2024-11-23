@@ -3,8 +3,8 @@ package gitlab_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/gitlab"
+	"github.com/burkayanduv/goth"
+	"github.com/burkayanduv/goth/providers/gitlab"
 	"github.com/stretchr/testify/assert"
 )
 

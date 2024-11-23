@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/markbates/goth"
+	"github.com/burkayanduv/goth"
 	"golang.org/x/oauth2"
 )
 

@@ -3,7 +3,7 @@ package hubspot
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/markbates/goth"
+	"github.com/burkayanduv/goth"
 	"golang.org/x/oauth2"
 	"io"
 	"net/http"
