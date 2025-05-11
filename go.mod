@@ -1,4 +1,4 @@
-module github.com/burkayanduv/goth
+module github.com/dental-teklif/goth
 
 go 1.18
 
