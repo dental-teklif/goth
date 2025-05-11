@@ -3,8 +3,8 @@ package naver_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/naver"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/naver"
 	"github.com/stretchr/testify/assert"
 )
 

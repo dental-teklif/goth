@@ -3,8 +3,8 @@ package meetup_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/meetup"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/meetup"
 	"github.com/stretchr/testify/assert"
 )
 

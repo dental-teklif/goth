@@ -4,9 +4,10 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"github.com/burkayanduv/goth"
-	"golang.org/x/oauth2"
 	"time"
+
+	"github.com/dental-teklif/goth"
+	"golang.org/x/oauth2"
 )
 
 type Session struct {

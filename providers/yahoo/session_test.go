@@ -3,8 +3,8 @@ package yahoo_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/yahoo"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/yahoo"
 	"github.com/stretchr/testify/assert"
 )
 

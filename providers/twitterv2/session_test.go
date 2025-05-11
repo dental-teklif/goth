@@ -3,8 +3,8 @@ package twitterv2_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/twitterv2"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/twitterv2"
 	"github.com/stretchr/testify/assert"
 )
 

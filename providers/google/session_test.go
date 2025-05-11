@@ -3,8 +3,8 @@ package google_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/google"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/google"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package soundcloud_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/soundcloud"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/soundcloud"
 	"github.com/stretchr/testify/assert"
 )
 

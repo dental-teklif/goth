@@ -3,7 +3,7 @@ package digitalocean_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth/providers/digitalocean"
+	"github.com/dental-teklif/goth/providers/digitalocean"
 	"github.com/stretchr/testify/assert"
 )
 

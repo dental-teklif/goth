@@ -3,8 +3,8 @@ package bitbucket_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/bitbucket"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/bitbucket"
 	"github.com/stretchr/testify/assert"
 )
 

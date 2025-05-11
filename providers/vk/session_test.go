@@ -3,8 +3,8 @@ package vk_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/vk"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/vk"
 	"github.com/stretchr/testify/assert"
 )
 

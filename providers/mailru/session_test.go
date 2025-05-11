@@ -3,8 +3,8 @@ package mailru_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/mailru"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/mailru"
 	"github.com/stretchr/testify/assert"
 )
 

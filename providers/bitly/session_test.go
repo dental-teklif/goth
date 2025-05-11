@@ -3,7 +3,7 @@ package bitly_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth/providers/bitly"
+	"github.com/dental-teklif/goth/providers/bitly"
 	"github.com/stretchr/testify/assert"
 )
 

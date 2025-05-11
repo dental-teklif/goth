@@ -3,13 +3,14 @@ package hubspot
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/burkayanduv/goth"
-	"golang.org/x/oauth2"
 	"io"
 	"net/http"
 	"net/url"
 	"strconv"
 	"time"
+
+	"github.com/dental-teklif/goth"
+	"golang.org/x/oauth2"
 )
 
 // These vars define the Authentication and Token URLS for Hubspot.

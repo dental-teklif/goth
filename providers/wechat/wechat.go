@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/burkayanduv/goth"
+	"github.com/dental-teklif/goth"
 	"golang.org/x/oauth2"
 )
 

@@ -1,10 +1,11 @@
 package hubspot_test
 
 import (
-	"github.com/burkayanduv/goth/providers/hubspot"
 	"testing"
 
-	"github.com/burkayanduv/goth"
+	"github.com/dental-teklif/goth/providers/hubspot"
+
+	"github.com/dental-teklif/goth"
 	"github.com/stretchr/testify/assert"
 )
 

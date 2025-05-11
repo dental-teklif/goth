@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/burkayanduv/goth"
+	"github.com/dental-teklif/goth"
 )
 
 // Session is the implementation of `goth.Session` for accessing AzureAD.

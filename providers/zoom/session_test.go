@@ -3,8 +3,8 @@ package zoom_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/zoom"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/zoom"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,11 +3,12 @@ package reddit
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/burkayanduv/goth"
-	"golang.org/x/oauth2"
 	"io"
 	"net/http"
 	"time"
+
+	"github.com/dental-teklif/goth"
+	"golang.org/x/oauth2"
 )
 
 const (

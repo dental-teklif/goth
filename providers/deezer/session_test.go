@@ -3,8 +3,8 @@ package deezer_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/deezer"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/deezer"
 	"github.com/stretchr/testify/assert"
 )
 

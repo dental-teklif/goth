@@ -12,10 +12,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/dental-teklif/goth"
+	. "github.com/dental-teklif/goth/gothic"
+	"github.com/dental-teklif/goth/providers/faux"
 	"github.com/gorilla/sessions"
-	"github.com/burkayanduv/goth"
-	. "github.com/burkayanduv/goth/gothic"
-	"github.com/burkayanduv/goth/providers/faux"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package wecom_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/wecom"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/wecom"
 	"github.com/stretchr/testify/assert"
 )
 

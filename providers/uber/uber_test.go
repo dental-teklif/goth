@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/uber"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/uber"
 	"github.com/stretchr/testify/assert"
 )
 

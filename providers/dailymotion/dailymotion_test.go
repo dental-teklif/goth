@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/dailymotion"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/dailymotion"
 	"github.com/stretchr/testify/assert"
 )
 

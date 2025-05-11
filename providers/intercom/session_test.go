@@ -3,8 +3,8 @@ package intercom_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/intercom"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/intercom"
 	"github.com/stretchr/testify/assert"
 )
 

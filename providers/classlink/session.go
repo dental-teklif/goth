@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/burkayanduv/goth"
+	"github.com/dental-teklif/goth"
 )
 
 type Session struct {

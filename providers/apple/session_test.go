@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/burkayanduv/goth"
+	"github.com/dental-teklif/goth"
 )
 
 func Test_Implements_Session(t *testing.T) {

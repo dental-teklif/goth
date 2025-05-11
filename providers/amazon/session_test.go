@@ -3,8 +3,8 @@ package amazon_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/amazon"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/amazon"
 	"github.com/stretchr/testify/assert"
 )
 

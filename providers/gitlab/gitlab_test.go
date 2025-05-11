@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/gitlab"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/gitlab"
 	"github.com/stretchr/testify/assert"
 )
 

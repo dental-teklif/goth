@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/dental-teklif/goth"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/burkayanduv/goth"
 	"golang.org/x/oauth2"
 )
 

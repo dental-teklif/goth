@@ -3,8 +3,8 @@ package influxcloud_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/influxcloud"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/influxcloud"
 	"github.com/stretchr/testify/assert"
 )
 

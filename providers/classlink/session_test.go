@@ -3,8 +3,8 @@ package classlink_test
 import (
 	"testing"
 
-	"github.com/burkayanduv/goth"
-	"github.com/burkayanduv/goth/providers/classlink"
+	"github.com/dental-teklif/goth"
+	"github.com/dental-teklif/goth/providers/classlink"
 	"github.com/stretchr/testify/assert"
 )
 
